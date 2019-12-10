@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
     textEditingController = new TextEditingController();
     scrollController = new ScrollController();
     _messages.add(chats[0]);
-    conv = new ComponentSession("namer_vp3", "test", onSetStateClbk);
+    conv = new ComponentSession("register_vp3", "", onSetStateClbk);
     super.initState();
   }
 
