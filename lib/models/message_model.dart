@@ -32,7 +32,7 @@ List<Message> chats = [
   Message(
     sender: bot,
     time: '00:00 PM',
-    text: 'Hey, how\'s it going?',
+    text: 'Type anything to get started!',
     isLiked: false,
     unread: true,
   ),
